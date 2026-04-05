@@ -1,0 +1,7 @@
+{
+  "name": "FaceID Pro",
+  "description": "Professional face verification system with fast matching and iOS-inspired UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
